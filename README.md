@@ -1,0 +1,35 @@
+G-Cocktails
+"GLOVO Assignment" by: Montserrat Mosqueda
+
+Description
+"G-Cocktails" is a GLOVO's website created to accompany your food with some exotic cocktails.
+
+G-Cocktails integrates a HomePage with 5 webpages options which help you to choose the best option of cocktail in order to accompany with your food delivery.
+
+Endpoints table
+Id	Method	Path	Description
+1	get	/	Renders to the homepage.
+2	get	/cocktails-list/4-ingredients	Renders the Cocktails that have more than 4 ingredients.
+3	get	/cocktails-list/id-name-ingredients	Renders all Cocktails, with the id, name, and ingredients.
+4	get	/cocktails-list/beginning-g	Renders all Cocktails which have a name beginning with “G” as well as the total number.
+5	get	/cocktails-list/ingredient-quantities	Renders all Cocktails, with the id, name, ingredients and quantities.
+6	get	/cocktails-list/alcoholic-cocktails	Renders all Cocktails, with the id, name, ingredients, quantities and which ones have alcohol and which ones don't.
+Instructions
+Access to the file: "client" from your terminal.
+Run the app in the development mode "npm start" on your local server.
+Open http://localhost:3000 in order to view it in the browser.
+Used technologies
+HTML5
+CSS3
+JavaScript
+React Bootstrap
+Bootstrap
+React
+React-dom
+React-router-dom
+Axios
+Cloudinary
+API https://www.thecocktaildb.com/
+About me
+Github: @Monch87
+LinkedIn: Montserrat-Mosqueda-Morales
