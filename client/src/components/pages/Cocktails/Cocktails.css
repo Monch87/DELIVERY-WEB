@@ -1,0 +1,12 @@
+.total-result {
+  text-align: center;
+  font-size: 4em;
+  background-color: whitesmoke;
+  border-radius: 20em;
+  color:rgba(0, 162, 131, 255);
+}
+
+
+.cocktail-card {
+  margin-bottom: 40px;
+} 

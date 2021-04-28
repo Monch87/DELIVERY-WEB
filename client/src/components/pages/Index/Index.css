@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Orelega+One&family=Ubuntu&display=swap');
+
+body { 
+  background-image: url(images/bg.webp);
+  background-color:#ffc04f;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-size: 1.2em;
+  font-weight: 200px; 
+  font-family: 'Merriweather', serif;
+  }
+
+
+.Monch {
+  font-size: 1em;
+  color:rgba(0, 162, 131, 255);
+}
+
+
+.title1{
+color:rgba(0, 162, 131, 255);
+}
