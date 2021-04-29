@@ -1,10 +1,13 @@
+## <b> G-Cocktails </b>
 
-![website1](https://user-images.githubusercontent.com/72262776/116488453-b462d680-a892-11eb-9d0e-e49220e12771.png)
+
+https://user-images.githubusercontent.com/72262776/116579454-b1a7c600-a912-11eb-9f76-d5e52f2149a0.mp4
 
 
-## G-Cocktails 
+
 "GLOVO Assignment"
 by: Montserrat Mosqueda
+
 
 
 ## Description :house: :bicyclist: :tropical_drink:
@@ -31,6 +34,8 @@ G-Cocktails integrates a HomePage with 5 webpages options which help you to choo
  1. Access to the file: "client" from your terminal. 
  2. Run the app in the development mode "npm start" on your local server. 
  2. Open http://localhost:3000 in order to view it in the browser.
+
+![website1](https://user-images.githubusercontent.com/72262776/116488453-b462d680-a892-11eb-9d0e-e49220e12771.png)
 
 
 
