@@ -6,7 +6,7 @@
 by: Montserrat Mosqueda
 
 
-## Description :bicyclist:
+## Description :house: :bicyclist: :tropical_drink:
 
 "G-Cocktails" is a GLOVO's website created to accompany your food with some exotic cocktails.
 
