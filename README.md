@@ -1,7 +1,8 @@
 ## <b> G-Cocktails </b>
 
 
-https://user-images.githubusercontent.com/72262776/116579454-b1a7c600-a912-11eb-9f76-d5e52f2149a0.mp4
+
+[![Alt text] (https://user-images.githubusercontent.com/72262776/116579454-b1a7c600-a912-11eb-9f76-d5e52f2149a0.mp4)
 
 
 
@@ -59,4 +60,4 @@ G-Cocktails integrates a HomePage with 5 webpages options which help you to choo
 
 * Github: [@Monch87](https://github.com/Monch87)
 * LinkedIn: [Montserrat-Mosqueda-Morales](https://www.linkedin.com/in/montserrat-mosqueda-morales)
-LinkedIn: Montserrat-Mosqueda-Morales
+  LinkedIn: Montserrat-Mosqueda-Morales
