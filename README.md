@@ -1,9 +1,8 @@
 ## <b> G-Cocktails </b>
 
+https://gifs.com/gif/glovo-gif-gpYQvk
 
-![caption](https://gifs.com/gif/glovo-gif-gpYQvk / GIF)
-
-(https://user-images.githubusercontent.com/72262776/116579454-b1a7c600-a912-11eb-9f76-d5e52f2149a0.mp4)
+https://user-images.githubusercontent.com/72262776/116579454-b1a7c600-a912-11eb-9f76-d5e52f2149a0.mp4
 
 
 
