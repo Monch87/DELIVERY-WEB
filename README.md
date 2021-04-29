@@ -1,8 +1,11 @@
+
+![website1_opt](https://user-images.githubusercontent.com/72262776/116488330-706fd180-a892-11eb-8f8e-a1a8fd5ace8b.png)
+
+
 ## G-Cocktails 
 "GLOVO Assignment"
 by: Montserrat Mosqueda
 
-![website1_opt](https://user-images.githubusercontent.com/72262776/116488330-706fd180-a892-11eb-8f8e-a1a8fd5ace8b.png)
 
 ## Description
 
