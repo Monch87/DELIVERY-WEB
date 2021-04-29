@@ -50,7 +50,7 @@ G-Cocktails integrates a HomePage with 5 webpages options which help you to choo
 
 
 
-### About me
+### About me :woman_technologist:
 
 * Github: [@Monch87](https://github.com/Monch87)
 * LinkedIn: [Montserrat-Mosqueda-Morales](https://www.linkedin.com/in/montserrat-mosqueda-morales)
