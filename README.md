@@ -30,7 +30,7 @@ G-Cocktails integrates a HomePage with 5 webpages options which help you to choo
  
 
 
-  ### Instructions
+  ## Instructions
 
  1. Access to the file: "client" from your terminal. 
  2. Run the app in the development mode "npm start" on your local server. 
@@ -40,7 +40,7 @@ G-Cocktails integrates a HomePage with 5 webpages options which help you to choo
 
 
 
-  ### Used technologies 
+  ## Used technologies 
 
 - HTML5 
 - CSS3
@@ -56,7 +56,7 @@ G-Cocktails integrates a HomePage with 5 webpages options which help you to choo
 
 
 
-### About me :woman_technologist:
+## About me :woman_technologist:
 
 * Github: [@Monch87](https://github.com/Monch87)
 * LinkedIn: [Montserrat-Mosqueda-Morales](https://www.linkedin.com/in/montserrat-mosqueda-morales)
