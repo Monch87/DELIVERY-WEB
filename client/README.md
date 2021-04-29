@@ -9,7 +9,6 @@ by: Montserrat Mosqueda
 ## Description :house: :bicyclist: :tropical_drink:
 
 "G-Cocktails" is a GLOVO's website created to accompany your food with some exotic cocktails.
-
 G-Cocktails integrates a HomePage with 5 webpages options which help you to choose the best option of cocktail in order to accompany with your food delivery.
 
 
