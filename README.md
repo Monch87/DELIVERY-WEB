@@ -2,13 +2,13 @@
 "GLOVO Assignment"
 by: Montserrat Mosqueda
 
+![website1_opt](https://user-images.githubusercontent.com/72262776/116488330-706fd180-a892-11eb-8f8e-a1a8fd5ace8b.png)
 
 ## Description
 
 "G-Cocktails" is a GLOVO's website created to accompany your food with some exotic cocktails.
 
 G-Cocktails integrates a HomePage with 5 webpages options which help you to choose the best option of cocktail in order to accompany with your food delivery.
-
 
 
 ## Endpoints table
