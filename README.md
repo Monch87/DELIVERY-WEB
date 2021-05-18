@@ -47,8 +47,7 @@ G-Cocktails integrates a HomePage with 5 webpages options which help you to choo
 - JavaScript
 - React Bootstrap
 - Bootstrap
-- React (create-React)
-- React-dom
+- React app
 - React-router-dom
 - Axios
 - Cloudinary
