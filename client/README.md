@@ -36,14 +36,13 @@ G-Cocktails integrates a HomePage with 5 webpages options which help you to choo
 
 
   ### Used technologies 
-
+  
 - HTML5 
 - CSS3
 - JavaScript
 - React Bootstrap
 - Bootstrap
-- React
-- React-dom
+- React (app)
 - React-router-dom
 - Axios
 - Cloudinary
