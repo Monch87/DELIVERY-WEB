@@ -6,7 +6,6 @@ https://user-images.githubusercontent.com/72262776/116579454-b1a7c600-a912-11eb-
 
 
 
-"GLOVO Assignment"
 by: Montserrat Mosqueda
 
 
